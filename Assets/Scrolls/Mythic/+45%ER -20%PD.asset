@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98e96d970f2948644b3ee37581d8d1ca, type: 3}
+  m_Name: +45%ER -20%PD
+  m_EditorClassIdentifier: 
+  itemName: +45% Electric Resistance but -20% Poison Damage
+  itemIcon: {fileID: 0}
+  backgroundSprite: {fileID: 21300000, guid: 13f0ceba7b00a8d4eb108aa0034c8236, type: 3}
+  itemDescription: {fileID: 0}
+  itemLore: {fileID: 0}
+  shadowedScroll: {fileID: 21300000, guid: bdda394a16f17b84db01c9c37fa36e5e, type: 3}
+  rarity: 2
+  Description: Assign desired attributes and add the same amount of modifiers with
+    correct values attached
+  playerAttributes: 03000000
+  playerAttributesValues:
+  - 0.45
+  projectileAttributes: 05000000
+  projectileAttributesValues:
+  - -0.2

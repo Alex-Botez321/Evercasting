@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7051589307813104377
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8746328617316093479}
+  - component: {fileID: 4695251234652319391}
+  m_Layer: 0
+  m_Name: ElementReaction manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8746328617316093479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7051589307813104377}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.987873, y: -0.62672704, z: 10.625011}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4695251234652319391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7051589307813104377}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15e2cf42f5da39a4582e1f268cab4daa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageMultiplier: 1
+  reactionTextCanvas: {fileID: 0}
+  WaterPrefab: {fileID: 3951740757839070020, guid: 34be87187b7a21d44ac45fefa3081b11,
+    type: 3}
+  PlasmaPrefab: {fileID: 4607871161252208606, guid: 8e634bd9e2423f54cb305fbf427872f4,
+    type: 3}
+  TeslaPrefab: {fileID: 2992251070806650615, guid: d3fa8e6cb513dce498a6c78442db37ba,
+    type: 3}
+  BismuthPrefab: {fileID: 7056881604398467850, guid: 1f0fa3d0bdf818549a8643c306a34529,
+    type: 3}
+  DamascusPrefab: {fileID: 8229427753868587674, guid: 0f2edd606b6e4d14e955b147b3aa8c04,
+    type: 3}
+  FerroFluidPrefab: {fileID: 4526582590122231301, guid: 48aefbc4d156874468007a69c7a11f9b,
+    type: 3}

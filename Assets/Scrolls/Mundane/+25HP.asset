@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98e96d970f2948644b3ee37581d8d1ca, type: 3}
+  m_Name: +25HP
+  m_EditorClassIdentifier: 
+  itemName: +25 Health
+  itemIcon: {fileID: 0}
+  backgroundSprite: {fileID: 21300000, guid: 8e27849990b354a42993f3ecc50a9528, type: 3}
+  itemDescription: {fileID: 0}
+  itemLore: {fileID: 0}
+  shadowedScroll: {fileID: 21300000, guid: ffe04d37351b741469451c37e20100c6, type: 3}
+  rarity: 0
+  Description: Assign desired attributes and add the same amount of modifiers with
+    correct values attached
+  playerAttributes: 00000000
+  playerAttributesValues:
+  - 25
+  projectileAttributes: 
+  projectileAttributesValues: []

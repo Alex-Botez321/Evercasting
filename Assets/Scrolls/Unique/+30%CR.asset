@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98e96d970f2948644b3ee37581d8d1ca, type: 3}
+  m_Name: +30%CR
+  m_EditorClassIdentifier: 
+  itemName: +30% Cold Resistance
+  itemIcon: {fileID: 0}
+  backgroundSprite: {fileID: 21300000, guid: 8888d19f5717a5844ad8be5fe40c02a0, type: 3}
+  itemDescription: {fileID: 0}
+  itemLore: {fileID: 0}
+  shadowedScroll: {fileID: 21300000, guid: 4630c0469cac2ab4f933a3183917074c, type: 3}
+  rarity: 1
+  Description: Assign desired attributes and add the same amount of modifiers with
+    correct values attached
+  playerAttributes: 01000000
+  playerAttributesValues:
+  - 0.3
+  projectileAttributes: 
+  projectileAttributesValues: []

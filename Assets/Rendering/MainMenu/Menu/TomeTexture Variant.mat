@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3717484812036194705
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TomeTexture Variant
+  m_Shader: {fileID: -6465566751694194690, guid: 1ceb9d9b16f53ed4a89c9665bff3ed58,
+    type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 1ceb9d9b16f53ed4a89c9665bff3ed58,
+    type: 3}
+  m_ModifiedSerializedProperties: 14
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NormalFromTexture_106b6457a0ec41fab05d0071da07802d_Texture_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 5598d638db305c04fb777b6bcd0aa3e5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_018f35bb9a164f579a67304f3924ce4c_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 77075dc99a896e3458c0d1d581c74ef3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_15c097779cc443c08c63b3bdea97560d_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 80fe363b461dfa247a78f689de76588a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_561c5aa3a6b042b5b079b1d946b1aa41_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: aace3ae8eeaf68942815b42458ad95c3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_c34c55f2875a421999031619758093b3_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 607298e12df9fe44d9bbec7dc82f62c2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e1ff6569e7e64ac0840be8901bbfc9d3_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: dea602466ca037046878bfca7d3a60ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f6a43c69cbac4a00b54778dfb8f87d6a_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: a5336d48856f4fb479a30aafc3b65f44, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Boolean: 0
+    - _PageBool: 1
+    - _PageFloat: 0
+    - _QueueControl: 0
+    - _Test: 0
+    m_Colors:
+    - _Color: {r: 0.54177886, g: 0.5126768, b: 0.469493, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

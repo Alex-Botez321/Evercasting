@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98e96d970f2948644b3ee37581d8d1ca, type: 3}
+  m_Name: +20%CS
+  m_EditorClassIdentifier: 
+  itemName: +20% Charge Speed
+  itemIcon: {fileID: 0}
+  backgroundSprite: {fileID: 21300000, guid: e3afe32cf982b5a438c6eda4da909f1a, type: 3}
+  itemDescription: {fileID: 0}
+  itemLore: {fileID: 0}
+  shadowedScroll: {fileID: 21300000, guid: e48f2ab1f475df84192b2a1c7ed8194b, type: 3}
+  rarity: 2
+  Description: Assign desired attributes and add the same amount of modifiers with
+    correct values attached
+  playerAttributes: 05000000
+  playerAttributesValues:
+  - 0.2
+  projectileAttributes: 
+  projectileAttributesValues: []

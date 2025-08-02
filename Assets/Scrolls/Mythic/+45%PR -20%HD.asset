@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98e96d970f2948644b3ee37581d8d1ca, type: 3}
+  m_Name: +45%PR -20%HD
+  m_EditorClassIdentifier: 
+  itemName: +45% Poison Resistance but -20% Heat Damage
+  itemIcon: {fileID: 0}
+  backgroundSprite: {fileID: 21300000, guid: 38c1b941f2b732d4fbc550ff45f101d2, type: 3}
+  itemDescription: {fileID: 0}
+  itemLore: {fileID: 0}
+  shadowedScroll: {fileID: 21300000, guid: ae5e1acb65bbf50448c3f31cd4e161b0, type: 3}
+  rarity: 2
+  Description: Assign desired attributes and add the same amount of modifiers with
+    correct values attached
+  playerAttributes: 04000000
+  playerAttributesValues:
+  - 0.45
+  projectileAttributes: 03000000
+  projectileAttributesValues:
+  - -0.2
