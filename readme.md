@@ -1,18 +1,27 @@
-### Blank Unity Project ### 
+# Third year group project at Falmouth University by Luminous Bear Studios
 
-This repository has been pre-configured with a .gitignore and .gitattributes file specific to Unity projects using git-lfs. 
+Designers:
 
-This project was created for Unity [2023.2.20](https://unity.com/releases/editor/whats-new/2023.2.20#installs)
+Mimi Leonard - [https://www.linkedin.com/in/mimi-valentine-leonard](https://www.linkedin.com/in/mimi-valentine-leonard) <br>
+Alexis Casdagli - [https://www.linkedin.com/in/alexis-casdagli-aa079b339](https://www.linkedin.com/in/alexis-casdagli-aa079b339)
 
-The project has been created with a barebones folder structure.  The settings have been optimized for best 3D quality without adding any additional packages to the project.
-For 2D projects, go to Edit -> Project Settings -> Editor and set the "Default Behaviour Mode" to 2D.  Do this at the start so that imported assets are optimized automatically.
+Programmers:
 
-To use this repo select it from the tremplate list when making a new repo.
+Alex Botez - [https://www.linkedin.com/in/alexandru-botez](https://alexbotez321.wixsite.com/alexandrubotez)<br>
+Daniil Sherry - [https://www.linkedin.com/in/daniil-sherry-7b76b1341](https://www.linkedin.com/in/daniil-sherry-7b76b1341)<br>
 
-Note:  Do not leave empty folders in your Unity project.  Empty folders do not get added to version control, but the meta files they create do.  This can lead to issues with keeping your project up to date.
+Artists:
 
-Please make sure you place all of your Terrain in a folder called "Terrain" or "Terrains". Failing to do so will result in corupted projects.
+Vaughan Montgomery (Environment Artist) - [https://www.linkedin.com/in/vaughan-montgomery-545a1a2a9](https://www.linkedin.com/in/vaughan-montgomery-545a1a2a9)<br>
+Lucy Savery (Concept Artist) - [https://www.linkedin.com/in/lucy-savery-51a914275](https://www.linkedin.com/in/lucy-savery-51a914275)<br>
+Jonah Nuttal (Concept Artist) - [https://www.artstation.com/jonahnuttall](https://www.artstation.com/jonahnuttall)<br>
+Cuban McCaw (Dev Artist) - [https://www.linkedin.com/in/cuban-mccaw-51b7701ba](https://www.linkedin.com/in/cuban-mccaw-51b7701ba)<br>
 
-Be aware that we have changed the settings to allow sub folders, this means you might accidently push as Unity project inside your Unity project so make sure you know what folder you are working from.
- 
-Do you have any suggestions for improvements? Please submit a pull request!
+Writer:
+
+Cameron Dickson - [https://www.linkedin.com/in/cameron-dickson-80a012339](https://www.linkedin.com/in/cameron-dickson-80a012339)
+
+Additional credit for animation to:
+
+Jenna Hyde - https://www.linkedin.com/in/jenna-hyde-1745432a7<br>
+Chris Smith - https://www.linkedin.com/in/chris-smith-779226254
